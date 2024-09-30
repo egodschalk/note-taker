@@ -1,4 +1,8 @@
-# note-taker
+# Note Taker
+
+## Description
+
+This note taking app allows the user to create and delete notes
 
 ## GitHub Repo
 
@@ -17,4 +21,3 @@ To run this app:
 ## Notes
 
 - Completed with the help of tutors Phillip Loy and Wesley Clements
-- Copied code for the server.js, fsUtils.js, and notes.js files from the unit 11 Mini Project solution code (and updated as appropriate)
